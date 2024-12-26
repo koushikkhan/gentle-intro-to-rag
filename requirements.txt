@@ -1,4 +1,5 @@
 langchain
 langchain-community
 pypdf
-faiss-gpu
+faiss-cpu
+langchain-ollama
